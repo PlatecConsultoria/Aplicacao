@@ -14,6 +14,8 @@ header{
 position:relative;
 background: url(../imagens/fundo_cabecalho.png) top left no-repeat;
 width: 1240px;
+margin-left:auto;
+margin-right:auto;
 }
 
 .menu-cabecalho ul li{
@@ -37,7 +39,21 @@ position: center;
 }
 
 .banner{
-padding:auto;
+margin-left:auto;
+margin-right:auto;
 
+}
+
+.contato {
+float:right;
+margin-right:auto;
+padding-top:10px; 
+}
+
+.diferencial {
+    float:left;
+    width:50;
+    margin-left:auto;
+    padding-top:10px;
 }
 
