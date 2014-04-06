@@ -48,11 +48,12 @@ margin-right:auto;
 float:right;
 margin-right:auto;
 padding-top:10px; 
+width:50%;
 }
 
 .diferencial {
     float:left;
-    width:50;
+    width:50%;
     margin-left:auto;
     padding-top:10px;
 }
