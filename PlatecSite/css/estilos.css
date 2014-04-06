@@ -1,0 +1,43 @@
+.menu-cabecalho ul{
+font-size:20px;
+position: absolute;
+right:0;
+bottom:0;
+}
+
+.menu-cabecalho a{
+color:#000000;
+font-family: "Tahoma";
+}
+
+header{
+position:relative;
+background: url(../imagens/fundo_cabecalho.png) top left no-repeat;
+width: 1240px;
+}
+
+.menu-cabecalho ul li{
+display:inline;
+margin:10px;
+padding: 10px;
+}
+
+.menu-setores ul{
+font-size:15px;
+right:0;
+bottom:0;
+}
+
+.menu-setores a{
+color:#003366;
+
+}
+.h2{
+position: center;
+}
+
+.banner{
+padding:auto;
+
+}
+
